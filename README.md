@@ -1,72 +1,45 @@
-<h1 align="center">Hi 👋, I'm Shivangi</h1>
-<h3 align="center">A passionate Computer Science student exploring DSA, Open Source, and Software Development 🚀</h3>
+<h1 align="center">Hey 👋 I'm Shivangi</h1>
 
 <p align="center">
-  🌱 Learning consistently • 💻 Building projects • ✨ Growing in public
+  A Computer Science student passionate about learning, building, and growing through code ✨
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🌸 About Me
 
-🎓 Computer Science student passionate about technology and problem solving  
-💡 Currently focused on improving my Data Structures & Algorithms skills  
-🌸 Exploring Open Source through GirlScript Summer of Code (GSSoC)  
-🚀 Interested in Software Engineering, Web Development, and scalable systems  
-📚 Believer in consistency, discipline, and learning by building real projects  
-
----
-
-## 🌱 Currently Working On
-
-- 📌 Solving DSA problems regularly on LeetCode  
-- 📌 Contributing to Open Source projects through GSSoC  
-- 📌 Learning React.js and modern frontend development  
-- 📌 Building projects to strengthen my development skills  
-- 📌 Improving Git & GitHub collaboration workflows  
+- 💻 Currently learning Data Structures & Algorithms and Web Development  
+- 🌱 Exploring Open Source through GirlScript Summer of Code (GSSoC)  
+- 🚀 Trying to improve every day by building projects and solving problems  
+- ☕ I enjoy learning in public and connecting with other developers  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech I Use
 
-### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css" />
-</p>
-
-### ⚙️ Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,react,nodejs,mysql" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,git,github,vscode" />
 </p>
 
 ---
 
-## 📈 GitHub Goals
+## 📌 Currently Working On
 
-✨ Contribute meaningfully to open source  
-✨ Build impactful real-world projects  
-✨ Grow as a developer every single day  
-✨ Connect with amazing developers and communities  
-
----
-
-## 🤝 Looking to Collaborate On
-
-- Open Source Projects 🌍  
-- Beginner-friendly frontend projects 💻  
-- DSA & coding discussions 📚  
-- Tech communities and hackathons 🚀  
+- DSA & LeetCode practice  
+- Open Source contributions  
+- React.js projects  
+- Improving Git & GitHub workflows  
 
 ---
 
-## 📫 How to Reach Me
+## 🤝 Let's Connect
 
-📧 Email: sp3671987@gmail.com  
+📫 Email: sp3671987@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/shivangi-pandey-05095331a/ 
-🌐 GitHub: https://github.com/Shivangi-1905 
+🌐 GitHub: https://github.com/Shivangi-1905
 
 ---
 
 <p align="center">
-  ⭐ “Code. Learn. Build. Repeat.” ⭐
+  ✨ Learning one step at a time ✨
 </p>
