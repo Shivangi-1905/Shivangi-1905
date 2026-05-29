@@ -32,14 +32,6 @@
 
 ---
 
-## 🤝 Let's Connect
-
-📫 Email: sp3671987@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/shivangi-pandey-05095331a/ 
-🌐 GitHub: https://github.com/Shivangi-1905
-
----
-
 <p align="center">
   ✨ Learning one step at a time ✨
 </p>
